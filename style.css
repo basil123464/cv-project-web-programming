@@ -49,10 +49,7 @@ h4 { color: #1f2937; margin-bottom: 0.3rem; }
   gap: 1rem;
   margin-top: 1.5rem;
 }
-.skill-badge {
-  background: #add8e6; color: rgb(224, 182, 182); font-weight: 600;
-  padding: 0.55rem 1.3rem; border-radius: 50px;
-}
+
 
 .contact-form { margin-top: 2rem; padding-top: 1.5rem; border-top: 1px solid #e5e7eb; }
 .contact-form input, .contact-form textarea {
