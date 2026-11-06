@@ -79,7 +79,7 @@ h4 { color: #1f2937; margin-bottom: 0.3rem; }
 .cv-table th, .cv-table td { border: 1px solid green; }
 
 footer {
-  background: #1f2937; color: #008000; text-align: center;
+  background: #1f2937; color: green; text-align: center;
   padding: 1.2rem; margin-top: auto; width: 100%;
 }
 
